@@ -1,0 +1,11 @@
+{
+  "name": "scw-autostart-stop",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "@scaleway/sdk": "^0.1.0-beta.16"
+  }
+}
